@@ -1,1 +1,1 @@
-# Stepik-C
+# Stepik_C/C++
