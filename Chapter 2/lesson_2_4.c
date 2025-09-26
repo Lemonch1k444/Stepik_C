@@ -17,6 +17,6 @@ int main(void)
     printf("var_h = %d, var_i = %d, %Lf\n", var_h, var_i, var_ld);
 
     printf("[%+10d]\n", var_i); //10 символов внутри скобочек
-    printf("[%-10.4d]\n", var_h); //10 символов, 4 символа длина числа
+    printf("[%-10.4d]\n", var_h); //10 символов, 4 символа длина числа 
     return 0;
 }
